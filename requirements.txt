@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+ultralytics
+mediapipe
+pygame
+requests
+time 
+ssl
